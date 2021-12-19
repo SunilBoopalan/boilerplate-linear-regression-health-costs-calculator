@@ -1,1 +1,1 @@
-Solution for boilerplate-linear-regression-health-costs-calculator, is in https://github.com/SunilBoopalan/boilerplate-linear-regression-health-costs-calculator/blob/master/Copy_of_fcc_predict_health_costs_with_regression.ipynb
+Solution for boilerplate-linear-regression-health-costs-calculator, is in [Copy_of_fcc_predict_health_costs_with_regression.ipynb](https://github.com/SunilBoopalan/boilerplate-linear-regression-health-costs-calculator/blob/master/Copy_of_fcc_predict_health_costs_with_regression.ipynb)
